@@ -1,0 +1,3159 @@
+fileFormatVersion: 2
+guid: 283f1dd47eb1b9048aa57d50f7eb9fec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: todos os sprites_0
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 621
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6783d370f2f4dea4e9bf7fdac2452827
+      internalID: 1020098827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 807
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e712101a1f26b24ab2c732c5d1ab84b
+      internalID: -1217562960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 807
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dac05d9eab1334fae3fe6ab81c0d34
+      internalID: -1881049837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 807
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de2ca1d12393fe4ea0f2d6d3a70459e
+      internalID: 1881362705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 711
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83de744e7c2d804db1b4a00bb71c583
+      internalID: -834646112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 711
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca943a01b9d87c409c3be5b4fc33419
+      internalID: -1949315589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 711
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ec437872d59724481c4493f20dfe84
+      internalID: 477386519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 615
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c81cc8443d8f445adc2194b0f08b2f
+      internalID: 1008925000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 615
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca851f0f2b48bd48bce7941777fb2e8
+      internalID: 756788809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 615
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304f8e0085d948948905bd92c3ddc231
+      internalID: -965118637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 518
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffefa3bd555d064a97dae13986ba765
+      internalID: 1153363925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 518
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa1820337b635342bae88fb10f22617
+      internalID: 720329721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 518
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bc4c67ac4db9b448c9db73385390ac
+      internalID: -1330837182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6dcecc3aef6204687dcb915d734fb9
+      internalID: 234229000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19bd3cd800d53a4188276a9ce53591a
+      internalID: -1789830130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 394
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98948aeb57c51914aabf26264f638cfc
+      internalID: 1809456982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 392
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0ce869a653d494899a948829ee42cb
+      internalID: -1246343871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 393
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe8302430805e248a40ef85d23ae384
+      internalID: 1188284827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 392
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e06a5f32095e34b8fa672030a848b8
+      internalID: -159725341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_19
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 392
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb273afe57d346449acb2471c46e5c60
+      internalID: -442676912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 207
+        width: 119
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ea06b05fcbb6441b1fc03d7a5b544d
+      internalID: 914285996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 108
+        width: 255
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932e09078bf4a3e43a2691ea30da5f68
+      internalID: -1215505327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 205
+        width: 124
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695269cdfb785644f851ea5391a2b459
+      internalID: -1326863069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 270
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5517ee1b1edf64ab7feb5edd6e35db
+      internalID: -2016118749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 268
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8087bf8ab9aa11347a34eeae85d37ab7
+      internalID: -501740568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_25
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 236
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572170fdd84be614f8a7cc789ad86912
+      internalID: 283993934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_26
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 268
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17bbd9710369454aaffbee0532d56f5
+      internalID: -866570254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_27
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 268
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f930c8b6964833a4ca1d3966e3bbfc9f
+      internalID: -1590310728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_28
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 268
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa3511fca1fc5e4fb58ff80b7f18876
+      internalID: 1058736747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 271
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d1041e8537f344bb687616d35653b7
+      internalID: 879535091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_30
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 271
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2a1a2fecdc54a45a08df41e16708db
+      internalID: -534849507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_31
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 268
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b9962666c5a4e42ba3433c01bbccf5
+      internalID: 431667489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_32
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 238
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b505337c2e65bfd4fa0136d6d6b1465c
+      internalID: 1406042899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_33
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 270
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdad7d580259dcc4f964a949471a0d5a
+      internalID: 1441597148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_34
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 270
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924a8cf505bb28d49986db6f0107bd34
+      internalID: 688435752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 241
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcf28f346f45d2498217aba82007d94
+      internalID: -1368619613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_36
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 242
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3641cc019b510be4e85b4720ad0690ef
+      internalID: -2039595694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_37
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 236
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deb7267e412d0a4783fe74f780f1a77
+      internalID: 1361657135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 239
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6a0aba1be47024cb7b7e0f60c235a6
+      internalID: -147340614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_39
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 239
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eea3e5b3baf78459e8302fea02a3d3
+      internalID: 1036745046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_40
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 239
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67a52cca523205419df3a952fb3c651
+      internalID: -924420522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_41
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 239
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bd46f2211a3eb4fb7887fc859244f7
+      internalID: -1639762734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_42
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 238
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56331cbcfca6055418fd246666a527d0
+      internalID: -1620768307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_43
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 238
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2775faaebfb4e424187100b03c769a21
+      internalID: 1886550927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_44
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 238
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb79c13ff611f645b00bd03db339c6a
+      internalID: -2015651667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_45
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 202
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6775903535dd4804c8535d0bc4fd2c70
+      internalID: -1543182899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_46
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 210
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d7365f41683a54f8dbe1ad4d087b43
+      internalID: 2146549082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_47
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 210
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc7d18237fd387419b2b81601533880
+      internalID: 1798884401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 205
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f1357f2889d7945b722b5a27f13fed
+      internalID: -1324725697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_49
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 205
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd06feb32f92364597f4d1a2745577a
+      internalID: -1364854306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 173
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263d0d75896be9043b38cd9016839766
+      internalID: 1663210836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_51
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 205
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f9632921317984a8b8f52820143ea9
+      internalID: -1731907893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 205
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e2eb578fc02a046b88747a80329b39
+      internalID: -1801718811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_53
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 205
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db758f2a6e7e9c4b9d40b5355d3d986
+      internalID: 1013176124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_54
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 204
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eab4b5eee47ba34c8662505688e6c13
+      internalID: -823395799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_55
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 204
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20965231671ecbe4aac4f7b692655ff8
+      internalID: 651091447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_56
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 204
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdc1968d48cfc14fb25effbd0d2bfca
+      internalID: -854750788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_57
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 204
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f9cf0d854935847b6d9c15317ae53a
+      internalID: 1805319805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_58
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 170
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9209c45e61a55479b5a0eaa84e521c
+      internalID: 1770169799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_59
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 172
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c804032d9f7e479428f79f9bf83bbdfa
+      internalID: 27593032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_60
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 170
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526467dc65c80944dbae5bee02125fd9
+      internalID: -8105378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 173
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3b2f84b14bfb442b60866bdb6ead8f
+      internalID: -1568891442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_62
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 177
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb3f221e8e9b7048a637d247925b32e
+      internalID: 769865002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_63
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 173
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5037e20bb5e515740b69f518a63d51b1
+      internalID: 1129938064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_64
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 173
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eaed28088ac6d41a38fe10d50d9c04
+      internalID: 182990538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_65
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 173
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61d8824764f91f4c830c38783be409d
+      internalID: 445259089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_66
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b5bb4c231b3f24da4a31e6d91dc13f
+      internalID: 474495245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_67
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 173
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef7958d68ea37344af70a6e4b98c2c1
+      internalID: 476204330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 172
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544f8e569c4e3314dbcfd14e27b516ef
+      internalID: -1144916125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_69
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 172
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aa01e82802a5b4981e4a17227af6e1
+      internalID: -1065569942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_70
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 172
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aef284e06edf81449c5c466900c86d2
+      internalID: -1117592909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_71
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 172
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407992ad4a2ca3d41839b3ffa9793e45
+      internalID: -1310444921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 83
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e006b1a2b9de347b30ec6019766f9a
+      internalID: 1341861499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_73
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 112
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50f55d25ba885f4daa95b19fecd4049
+      internalID: -1823574200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_74
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 126
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8297e348cc8aa4289b5a55a237fbf6
+      internalID: -1576504590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_75
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 141
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fbb7bf3cff89a44803259d86827190
+      internalID: -1908044436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_76
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 141
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85f59428c5acb645a90ec60e445fe70
+      internalID: 1038342376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_77
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 43
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f251a39198bcf649ba32d97b5135a7d
+      internalID: 50194783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_78
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 109
+        width: 65
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adad6bdd67898c47a42750fd5c966c9
+      internalID: 201080979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_79
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 112
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ffbc12a01c1f8488ee9a33e3c1de98
+      internalID: -387425043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_80
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 117
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0654a019b0be0e8489fd268fc7a74c3f
+      internalID: -568536457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_81
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 117
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b811d46a72e50e5498d0f4d7b02effa6
+      internalID: -421784954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_82
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 109
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272960f642f7b0545907b0fd379eb14f
+      internalID: 1038888020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_83
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 114
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7932b6d7dafe944497e3aef869cb447
+      internalID: 241265618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_84
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 112
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28329639db6289a419bb668dd2a82d19
+      internalID: -902709809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_85
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 114
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844c260eb7ef87243ac397a2624afdab
+      internalID: -929229406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_86
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 114
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7645bcdbddacb6d4aa61ac7d947e5775
+      internalID: -5780739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_87
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 117
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3904cdb619b5bc749995ef8a17960e74
+      internalID: 1846466490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_88
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 112
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597cb6193354a1041a5c598929e7c1ef
+      internalID: -737225395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_89
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 119
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e6292e0e142444e85d45bb1123fabb
+      internalID: 559548479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_90
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 11
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c379c7851620baf418649ed398403b84
+      internalID: 1299013473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_91
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 11
+        width: 29
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ebc98440b3986418c89c12b1a44624
+      internalID: -2006823876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_92
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 11
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016a80876044fbb488fdb2a9c38e58f7
+      internalID: -1652891806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_93
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 11
+        width: 31
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c3d7d280eff5849aaa1cef3c7e0ca5
+      internalID: 21911646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_94
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 43
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3b23f09bc75a1498ef984ef8820f86
+      internalID: -1057681578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_95
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 75
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2c85433ddeb094795d40086403492c
+      internalID: -808369337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_96
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 77
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b3fed1a0a72014eadf9225399ae760
+      internalID: -1099767482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_97
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 85
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a29a620d8dbd1d4c842f29d94d81feb
+      internalID: -1255211576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_98
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 85
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c472d0bb13c2943bb4331f4c3819b8
+      internalID: 144649420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_99
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 85
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c572a75489701354991f0edbade33fb2
+      internalID: 1282955075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_100
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 83
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8ffef3390d0354cbbf4c61cc7e09fa
+      internalID: -1210225653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_101
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 83
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2205d6ce63b2a0a47af955e7832aa10b
+      internalID: 2106985159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_102
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 83
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64af4d0f6461bc04e81f997e8e4570c4
+      internalID: -755928954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_103
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 80
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bd36e4aa9142b4d95cd6586301bde0
+      internalID: -1002179941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_104
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 87
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90dd3f5db888714b87662572220c8bf
+      internalID: 1627335323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_105
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 82
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad0e8e43f5252249b667c424a97962a
+      internalID: 1943448722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_106
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 83
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa3cab6f2d0714d809ed5ca75fdb61
+      internalID: 838638683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_107
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 43
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd742bce01ad4b147ba1ae5d2063bf2c
+      internalID: 536209464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 43
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ec6e813aed0fb4e92fb060d8024307
+      internalID: -2072862448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_109
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 11
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21566381349806e439cfed88aa61e3d3
+      internalID: 1084524644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_110
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 43
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f60a15a2e0d0c14b9156607a2720721
+      internalID: -1316628673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_111
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 47
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bcffbe2828291448b8a3c2895e6476
+      internalID: 2030284422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_112
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 47
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39d54e359038974fbf5588e03162249
+      internalID: -1141174263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_113
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 55
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f9391d09c63284285954d4d9baeb1c
+      internalID: 410519999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_114
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 51
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44fba2015281b54ea2c8376c56e845b
+      internalID: -585964659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_115
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 53
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc0f8a77b64ce6458b4f45bdf156436
+      internalID: -1227494117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_116
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 53
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922abf1b759378444923eaa9927629b4
+      internalID: 307976671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_117
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 51
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd07275131309f4d981d821939d4088
+      internalID: -1159422273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_118
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 51
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc851b15201fb0a46b941f12a32e26b9
+      internalID: 1314029161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_119
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 51
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b7533005e4ad549a548faf6f69680f
+      internalID: 1757892179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_120
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 51
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9754b2c864aa2a49814708024c54449
+      internalID: 621272913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_121
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 51
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d98c3c4cce1224ca9cf696a9e5f92a
+      internalID: 834224212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_122
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 51
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c5d374a8721b042bb31a799c15fcfd
+      internalID: 1323354622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_123
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5437c061ba612c41b26f19b8eab903b
+      internalID: 1572915008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_124
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f498cfbf557a9545bc64756eace5020
+      internalID: 2044439800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 11
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9fbf6d93accaa43bfde1b1e2a8cb86
+      internalID: -197486302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_126
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 16
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb11388664751be44ae25ea7c601e56b
+      internalID: 375639457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_127
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 18
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5934b26d369fb47bedcd66cbbc93d9
+      internalID: -78171328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_128
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 21
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53a19c69126b8246a01c3a5ac6ee0a8
+      internalID: 163290209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_129
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 22
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e377bbee683554eba7b8f978925b6a
+      internalID: 523966065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_130
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c6c562824142a4683ef57fc189d730
+      internalID: 1301363116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_131
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 24
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30a70f39ae51dd4da19a254058c608b
+      internalID: 682370339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_132
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 21
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b636fb3e92a6064ebf70329ea143f4f
+      internalID: 1376209502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_133
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 21
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257f59b816beaff4d9a1e785548964fd
+      internalID: 2048007407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_134
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 19
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e346492af467d346b9c036cd84a8b44
+      internalID: -282599758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_135
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 16
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd32f623d4980784b8c400469b9ff916
+      internalID: -1405680358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_136
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 22
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b566867e165cd2c4587e5572933bdad9
+      internalID: 1843619134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todos os sprites_137
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 19
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3b91742655cfa44b34f2c79515c806
+      internalID: 665961291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      todos os sprites_136: 1843619134
+      todos os sprites_106: 838638683
+      todos os sprites_13: 234229000
+      todos os sprites_41: -1639762734
+      todos os sprites_85: -929229406
+      todos os sprites_110: -1316628673
+      todos os sprites_100: -1210225653
+      todos os sprites_117: -1159422273
+      todos os sprites_60: -8105378
+      todos os sprites_15: 1809456982
+      todos os sprites_105: 1943448722
+      todos os sprites_94: -1057681578
+      todos os sprites_99: 1282955075
+      todos os sprites_51: -1731907893
+      todos os sprites_74: -1576504590
+      todos os sprites_112: -1141174263
+      todos os sprites_119: 1757892179
+      todos os sprites_56: -854750788
+      todos os sprites_102: -755928954
+      todos os sprites_10: 1153363925
+      todos os sprites_18: -159725341
+      todos os sprites_21: -1215505327
+      todos os sprites_46: 2146549082
+      todos os sprites_34: 688435752
+      todos os sprites_27: -1590310728
+      todos os sprites_76: 1038342376
+      todos os sprites_12: -1330837182
+      todos os sprites_124: 2044439800
+      todos os sprites_108: -2072862448
+      todos os sprites_55: 651091447
+      todos os sprites_104: 1627335323
+      todos os sprites_7: 1008925000
+      todos os sprites_37: 1361657135
+      todos os sprites_52: -1801718811
+      todos os sprites_118: 1314029161
+      todos os sprites_123: 1572915008
+      todos os sprites_122: 1323354622
+      todos os sprites_20: 914285996
+      todos os sprites_14: -1789830130
+      todos os sprites_133: 2048007407
+      todos os sprites_121: 834224212
+      todos os sprites_49: -1364854306
+      todos os sprites_29: 879535091
+      todos os sprites_4: -834646112
+      todos os sprites_39: 1036745046
+      todos os sprites_77: 50194783
+      todos os sprites_30: -534849507
+      todos os sprites_111: 2030284422
+      todos os sprites_107: 536209464
+      todos os sprites_80: -568536457
+      todos os sprites_113: 410519999
+      todos os sprites_25: 283993934
+      todos os sprites_6: 477386519
+      todos os sprites_73: -1823574200
+      todos os sprites_130: 1301363116
+      todos os sprites_53: 1013176124
+      todos os sprites_9: -965118637
+      todos os sprites_84: -902709809
+      todos os sprites_92: -1652891806
+      todos os sprites_22: -1326863069
+      todos os sprites_45: -1543182899
+      todos os sprites_131: 682370339
+      todos os sprites_88: -737225395
+      todos os sprites_26: -866570254
+      todos os sprites_93: 21911646
+      todos os sprites_128: 163290209
+      todos os sprites_116: 307976671
+      todos os sprites_38: -147340614
+      todos os sprites_109: 1084524644
+      todos os sprites_129: 523966065
+      todos os sprites_8: 756788809
+      todos os sprites_67: 476204330
+      todos os sprites_132: 1376209502
+      todos os sprites_66: 474495245
+      todos os sprites_96: -1099767482
+      todos os sprites_47: 1798884401
+      todos os sprites_0: 1020098827
+      todos os sprites_48: -1324725697
+      todos os sprites_36: -2039595694
+      todos os sprites_19: -442676912
+      todos os sprites_91: -2006823876
+      todos os sprites_11: 720329721
+      todos os sprites_125: -197486302
+      todos os sprites_23: -2016118749
+      todos os sprites_54: -823395799
+      todos os sprites_115: -1227494117
+      todos os sprites_95: -808369337
+      todos os sprites_35: -1368619613
+      todos os sprites_64: 182990538
+      todos os sprites_61: -1568891442
+      todos os sprites_17: 1188284827
+      todos os sprites_62: 769865002
+      todos os sprites_126: 375639457
+      todos os sprites_120: 621272913
+      todos os sprites_57: 1805319805
+      todos os sprites_44: -2015651667
+      todos os sprites_83: 241265618
+      todos os sprites_2: -1881049837
+      todos os sprites_114: -585964659
+      todos os sprites_137: 665961291
+      todos os sprites_135: -1405680358
+      todos os sprites_5: -1949315589
+      todos os sprites_134: -282599758
+      todos os sprites_31: 431667489
+      todos os sprites_63: 1129938064
+      todos os sprites_69: -1065569942
+      todos os sprites_50: 1663210836
+      todos os sprites_68: -1144916125
+      todos os sprites_81: -421784954
+      todos os sprites_75: -1908044436
+      todos os sprites_3: 1881362705
+      todos os sprites_58: 1770169799
+      todos os sprites_87: 1846466490
+      todos os sprites_90: 1299013473
+      todos os sprites_33: 1441597148
+      todos os sprites_59: 27593032
+      todos os sprites_101: 2106985159
+      todos os sprites_78: 201080979
+      todos os sprites_1: -1217562960
+      todos os sprites_98: 144649420
+      todos os sprites_127: -78171328
+      todos os sprites_24: -501740568
+      todos os sprites_32: 1406042899
+      todos os sprites_72: 1341861499
+      todos os sprites_43: 1886550927
+      todos os sprites_82: 1038888020
+      todos os sprites_16: -1246343871
+      todos os sprites_40: -924420522
+      todos os sprites_79: -387425043
+      todos os sprites_70: -1117592909
+      todos os sprites_65: 445259089
+      todos os sprites_103: -1002179941
+      todos os sprites_42: -1620768307
+      todos os sprites_97: -1255211576
+      todos os sprites_89: 559548479
+      todos os sprites_28: 1058736747
+      todos os sprites_86: -5780739
+      todos os sprites_71: -1310444921
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
